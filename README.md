@@ -96,8 +96,8 @@ API by running the following command:
 ```bash
 python object_detection/builders/model_builder_test.py
 ```
-
-and to make sure the test images i used or for you to use custom images 
+## Custom Images
+And to make sure the test images i used or for you to use custom images 
 go to object_detection directory and test_images subdirectory and rename the images and change in program at " In[8] " at TEST_IMAGE_PATHS in range according to image number
 
 Enjoy!!
