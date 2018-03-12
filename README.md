@@ -2,7 +2,7 @@
 This is a play code for me to get acquainted with tensorflow object detection api
 
 
-## These are some sample images trained with the api :
+## These are some sample images trained :
 
 ![image1](https://user-images.githubusercontent.com/23384411/29742711-7c7fc0d8-8aa1-11e7-9081-1a570f5112b8.png)
 
