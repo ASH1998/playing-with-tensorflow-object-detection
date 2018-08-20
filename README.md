@@ -1,4 +1,6 @@
 # playing-with-tensorflow-object-detection
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)  [![HitCount](http://hits.dwyl.io/ASH1998/android-digit-recogniser.svg)](http://hits.dwyl.io/ASH1998/android-digit-recogniser)
+
 This is a play code for me to get acquainted with tensorflow object detection api
 
 
